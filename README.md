@@ -1,7 +1,6 @@
-### BMI Calculator
+### Flash Chat
 
-BMI Calculator is a simple app that calculates a person BMI based on their specific input.
-
+Flash Chat is a simple chatting app featuring authentication, registration and live chatting between different users.
 
 ### Languages, Frameworks and Services used:
 
